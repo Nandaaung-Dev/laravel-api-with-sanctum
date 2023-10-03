@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
+    <head>gis 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Hello</title>
 
         <!-- Fonts -->
         <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+
+          <!-- add icon link -->
+        <link rel = "icon" href = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn0YzcA7mv_Z_fHFxB7QJT91Pd2kTvMuQ2BA&usqp=CAU"
+        type = "image/x-icon">
 
         <!-- Styles -->
         <style>
